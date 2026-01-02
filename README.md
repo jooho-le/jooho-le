@@ -156,17 +156,22 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
 ## 📊 GitHub Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats-six-phi.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=jooho-le&layout=compact&hide_border=true" />
+  <img height="165"
+       src="https://github-readme-stats-six-phi.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" />
+  <img height="165"
+       src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=jooho-le&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jooho-le&hide_border=true&theme=dark" />
+  <img
+    src="https://streak-stats.demolab.com?user=jooho-le&hide_border=true&theme=default&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jooho-le&theme=github-dark&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jooho-le&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" />
 </p>
+
 
 ---
 
