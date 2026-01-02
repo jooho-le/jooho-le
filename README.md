@@ -131,14 +131,12 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
 
 ## 🏆 Achievements
 
-| 수상 | 대회 |
-|---|---|---|
-| 동상 | 2024년도 META MOBILITY 드론코딩 경진대회 |  |
-| 은상 | 2025 JBNU SW/AI 경진대회 SW부문 (전공팀) |  |
-| 입상 | ChatGPT 활용 프롬프트 경진대회 |  |
-| 한국전기안전공사 | 제3회 전북 청년 빅데이터 경진대회 |  |
-| 장려상 | 2025 컴퓨터인공지능학부 AI 포트폴리오 공모전 |  |
-| 대상 | 2025 SW융합 포트폴리오 공모전 |  |
+- **동상** | 2024 META MOBILITY 드론코딩 경진대회
+- **은상** | 2025 JBNU SW/AI 경진대회 (SW부문, 전공팀)
+- **입상** | ChatGPT 활용 프롬프트 경진대회
+- **우수상** | 제3회 전북 청년 빅데이터 경진대회 (한국전기안전공사)
+- **장려상** | 2025 컴퓨터인공지능학부 AI 포트폴리오 공모전
+- **대상** | 2025 SW융합 포트폴리오 공모전
 
 ---
 
@@ -156,15 +154,13 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
 ---
 
 ## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true&theme=graywhite&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooho-le&layout=compact&hide_border=true&theme=graywhite&cache_seconds=1800" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true)
 
 ---
 
-![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ldssong&theme=dark&background=000000&text=ffffff&border=ffffff&empty=1a1a1a&filled=ffffff)
+## 🌱 Solved.ac
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=네BOJ아이디)
+
 
 
 <a href="https://hits.seeyoufarm.com">
