@@ -142,26 +142,30 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
 
 ## 💼 Extracurricular Experiences
 
-- **2024, 2025 코드클럽 앤트리교육 봉사단* (2024.04 ~ 2024.07, 2025.04 ~ 2025.07)  
+- *2024, 2025 코드클럽 앤트리교육 봉사단* (2024.04 ~ 2024.07, 2025.04 ~ 2025.07)  
   - 초등학생 대상 엔트리 블록코딩 교육 봉사활동
-- **펄어비스 딩가딩 해커톤 멘토* (2024.10)
+- *펄어비스 딩가딩 해커톤 멘토* (2024.10)
   - 초등학생 대상 게임개발 해커톤 프로젝트 멘토링활동
-- **전주 꿈멘토단 멘토링 활동* (2025.02 ~ 2025.08)  
+- *전주 꿈멘토단 멘토링 활동* (2025.02 ~ 2025.08)  
   - 중고등학교 자퇴 학생 대상 검정고시 대시 수업 및 진로 멘토링 
-- **2025 KB 라스쿨 중등* (2025.04 ~ 2026.02)  
+- *2025 KB 라스쿨 중등* (2025.04 ~ 2026.02)  
   - 중학생 대상 학습, 진로 멘토링
   
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-six-phi.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true)
+## 📊 GitHub Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats-six-phi.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=jooho-le&layout=compact&hide_border=true" />
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jooho-le&hide_border=true&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jooho-le&theme=github-dark&hide_border=true)
 
 ---
 
 ## 🌱 Solved.ac
 ![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=ldssong&theme=dark&background=000000&text=ffffff&border=ffffff&empty=000000&filled=ffffff)
 
-
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooho-le&count_bg=%230D0D0D&title_bg=%230D0D0D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/>
-</a>
