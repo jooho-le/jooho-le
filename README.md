@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&text=LeeJooHo&fontColor=ffffff&fontSize=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&text=LeeJooHo&fontColor=ffffff&fontSize=52)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+%2F+App+%2F+Data+%2F+AI+Developer;Building+projects+and+learning+by+shipping;" />
