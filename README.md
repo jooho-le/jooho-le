@@ -72,7 +72,7 @@
 
 - GitHub: https://github.com/jooho-le/CampusLink
 
---
+---
 
 ### MadiMate
 의사소통이 어려운 환자들을 대상으로 한 앱/웹 서비스입니다.
@@ -83,7 +83,7 @@
 
 - GitHub: https://github.com/jooho-le/CMD_MadiMate
 
---
+---
 
 ### Read & Lead
 문학작품을 기반으로 여행 추천 및 커뮤니티 기능을 제공하는 앱/웹 서비스입니다.  
@@ -94,7 +94,7 @@
 - GitHub: https://github.com/jooho-le/ReadANDLead
 - Deploy: https://read-and-lead-virid.vercel.app
 
---
+---
 
 ### ChatterPals
 Chrome Extention을 활용한 외국어 학습 서비스입니다. 
@@ -106,7 +106,7 @@ ChatterPals 웹페이지를 통해 레벨테스트, 학습기록 보기, AI 튜�
 - GitHub: https://github.com/jooho-le/ChatterPals
 - Deploy: https://chatter-pals.vercel.app/
 
---
+---
 
 ### MediScanner
 EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 해석을 이용한 피부병 진단 웹서비스입니다.
@@ -116,7 +116,7 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
 
 - GitHub: https://github.com/jooho-le/MediScanner
 
---
+---
 
 ### HYUGA
 국민 체육/건강 데이터 분석 기반의 휴식 권장 및 건강증진 솔루션 웹서비스입니다.  
@@ -127,16 +127,16 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
 - GitHub: https://github.com/jooho-le/Hyuga
 - Deploy: https://hyuga-service.web.app/
 
----
+----
 
 ## 🏆 Achievements
 
-| 수상 | 대회 | 비고 |
+| 수상 | 대회 |
 |---|---|---|
 | 동상 | 2024년도 META MOBILITY 드론코딩 경진대회 |  |
 | 은상 | 2025 JBNU SW/AI 경진대회 SW부문 (전공팀) |  |
 | 입상 | ChatGPT 활용 프롬프트 경진대회 |  |
-| 우수상 | 제3회 전북 청년 빅데이터 경진대회 | 한국전기안전공사 |
+| 한국전기안전공사 | 제3회 전북 청년 빅데이터 경진대회 |  |
 | 장려상 | 2025 컴퓨터인공지능학부 AI 포트폴리오 공모전 |  |
 | 대상 | 2025 SW융합 포트폴리오 공모전 |  |
 
