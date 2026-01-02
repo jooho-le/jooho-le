@@ -17,18 +17,28 @@
 
 ## 🧰 Tech Stack
 
+### 🧑‍💻 Languages
 <p>
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000000" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
 </p>
 
+### 🧠 Backend / Frameworks
 <p>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
@@ -37,25 +47,15 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 </p>
 
+### 🗄️ Database / Cloud
 <p>
-  <!-- DB / Cloud -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000000" />
 </p>
 
+### 🧰 Tools / Collaboration
 <p>
-  <!-- Languages / Others -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000000" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
-<p>
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -66,12 +66,22 @@
 ---
 ## 📌 Projects
 
-### HYUGA
-국민 체육/건강 데이터 분석 기반의 휴식 권장 및 건강증진 솔루션 웹서비스입니다.  
-사용자의 운동 시간·강도·환경을 고려해 과훈련 여부를 판단하고, 적절한 휴식 방법과 장소를 추천합니다.
+### CampusLink
+대학생활에 필요한 정보들과 자주 사용하는 사이트 및 기능들을 하나의 어플리케이션에서 사용하고 확인할 수 있는 앱서비스입니다. 
+**Problem:** 대학생활 정보와 자주 쓰는 링크가 여러 곳에 흩어져 있어, 필요한 순간마다 찾는 비용이 크며 불이익이 생길 수 있다.
 
-- GitHub: https://github.com/jooho-le/Hyuga
-- Live: https://hyuga-service.web.app/
+- GitHub: https://github.com/jooho-le/CampusLink
+
+---
+
+### MadiMate
+의사소통이 어려운 환자들을 대상으로 한 앱/웹 서비스입니다.
+보호자의 동반 없이도 진료를 볼 수 있도록 의사에게 어떻게, 언제부터, 어디가 아픈지 앱을 통해 상태를 전달합니다. 
+의사와 환자, 보호자가 서로 연결되도록 하는 의료보조 서비스입니다.
+
+**Problem:** 의사소통이 어려운 환자는 증상 전달이 부정확해지고, 보호자 동반이 어려울 때 진료 접근성이 크게 떨어진다.
+
+- GitHub: https://github.com/jooho-le/CMD_MadiMate
 
 ---
 
@@ -79,18 +89,82 @@
 문학작품을 기반으로 여행 추천 및 커뮤니티 기능을 제공하는 앱/웹 서비스입니다.  
 책 작품을 바탕으로 관광지를 탐색하고, AI 추천 여행 일정으로 문학을 여행으로 경험합니다.
 
+**Problem:** 책에서 받은 여행 영감을 실제 일정으로 옮기기 어렵고, 독자 간 경험 공유도 분산되어 지속적인 참여가 어렵다.
+
 - GitHub: https://github.com/jooho-le/ReadANDLead
-- Live: https://read-and-lead-virid.vercel.app
+- Deploy: https://read-and-lead-virid.vercel.app
 
+---
 
+### ChatterPals
+Chrome Extention을 활용한 외국어 학습 서비스입니다. 
+크롬에서 서비스를 다운받아 현재 보고있는 페이지의 내용을 기반으로 자유롭게 외국어 학습을 할 수 있도록 도와줍니다.
+ChatterPals 웹페이지를 통해 레벨테스트, 학습기록 보기, AI 튜터기능들을 활용해 추가 학습을 가능하게 합니다.
+
+**Problem:** 웹서핑 중 학습하고 싶은 표현을 즉시 학습 흐름으로 연결하기 어렵고, 학습 기록/피드백이 끊겨 꾸준함이 떨어진다.
+
+- GitHub: https://github.com/jooho-le/ChatterPals
+- Deploy: https://chatter-pals.vercel.app/
+
+---
+
+### MediScanner
+EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 해석을 이용한 피부병 진단 웹서비스입니다.
+피부병, 피부암을 병원 방문 없이 조기진단이 가능하게 해줍니다. 
+
+**Problem:** 피부 병변은 초기 판단이 어렵고 병원 방문 전 사전 스크리닝/설명 가능한 예측이 부족해 조기 대응이 늦어질 수 있다.
+
+- GitHub: https://github.com/jooho-le/MediScanner
+
+---
+
+### HYUGA
+국민 체육/건강 데이터 분석 기반의 휴식 권장 및 건강증진 솔루션 웹서비스입니다.  
+사용자의 운동 시간·강도·환경을 고려해 과훈련 여부를 판단하고, 적절한 휴식 방법과 장소를 추천합니다.
+
+**Problem:** 운동 후 피로/과훈련 여부를 스스로 판단하기 어려워, 회복 타이밍을 놓치거나 비효율적인 휴식으로 컨디션이 저하된다.
+
+- GitHub: https://github.com/jooho-le/Hyuga
+- Deploy: https://hyuga-service.web.app/
+
+---
+
+## 🏆 Achievements
+
+| 수상 | 대회 |
+|---|---|---|
+| 동상 | 2024년도 META MOBILITY 드론코딩 경진대회 |
+| 은상 | 2025 JBNU SW/AI 경진대회 SW부문(전공팀) |
+| 장려상 | 2025 ChatGPT 활용 프롬포트 경진대회 |
+| 한국전기안전공사상 | 2025 제3회 전북 청년 빅데이터 경진대회 |
+| 장려상 | 2025 컴퓨터인공지능학부 AI 프로젝트 발표회 |
+| 대상 | 2025 SW융합 포트폴리오 공모전 |
+
+---
+
+## 💼 Extracurricular Experiences
+
+- **2024, 2025 코드클럽 앤트리교육 봉사단* (2024.04 ~ 2024.07, 2025.04 ~ 2025.07)  
+  - 초등학생 대상 엔트리 블록코딩 교육 봉사활동
+- **펄어비스 딩가딩 해커톤 멘토* (2024.10)
+  - 초등학생 대상 게임개발 해커톤 프로젝트 멘토링활동
+- **전주 꿈멘토단 멘토링 활동* (2025.02 ~ 2025.08)  
+  - 중고등학교 자퇴 학생 대상 검정고시 대시 수업 및 진로 멘토링 
+- **2025 KB 라스쿨 중등* (2025.04 ~ 2026.02)  
+  - 중학생 대상 학습, 진로 멘토링
+  
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooho-le&layout=compact&hide_border=true&theme=graywhite)
 
+
 ---
+
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lessong&theme=dark&background=000000&text=ffffff&border=ffffff&empty=1a1a1a&filled=ffffff)
+
 
 <a href="https://hits.seeyoufarm.com">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooho-le&count_bg=%230D0D0D&title_bg=%230D0D0D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/>
