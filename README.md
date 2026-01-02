@@ -159,8 +159,7 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
 ---
 
 ## 🌱 Solved.ac
-![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=네BOJ아이디)
-
+![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=ldssong&theme=dark&background=000000&text=ffffff&border=ffffff&empty=000000&filled=ffffff)
 
 
 <a href="https://hits.seeyoufarm.com">
