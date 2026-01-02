@@ -154,7 +154,7 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-six-phi.vercel.app/api?username=jooho-le&show_icons=true&hide_border=true)
 
 ---
 
