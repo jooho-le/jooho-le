@@ -160,9 +160,13 @@ EfficientNet-V2-M 기반 피부병변 분류 모델 및 Grad-CAM 기반 예측 �
   <img height="165" src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=jooho-le&layout=compact&hide_border=true" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jooho-le&hide_border=true&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jooho-le&hide_border=true&theme=dark" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jooho-le&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jooho-le&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
