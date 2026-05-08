@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShaderLab-222222?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/HLSL-5E5E5E?style=flat&logo=microsoft&logoColor=white" />
 </p>
 
 ### 🌐 Frontend
@@ -39,13 +43,17 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" />
 </p>
 
 ### 🎨 Styling / UI
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
 </p>
-
 
 ### 🧠 Backend / Frameworks
 <p>
@@ -55,6 +63,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=uvicorn&logoColor=white" />
 </p>
 
 ### 🗄️ Database / Cloud
@@ -62,6 +71,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000000" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
 ### 🧰 Tools / Collaboration
@@ -71,6 +81,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
 </p>
 
 ### 🚀 DevOps / Deployment
@@ -79,6 +90,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
 </p>
 
 ### 🤖 AI / Data
@@ -88,6 +100,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 ### 🧪 Testing / Quality
@@ -96,6 +109,7 @@
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
 </p>
+
 
 ---
 ## 📌 Projects
