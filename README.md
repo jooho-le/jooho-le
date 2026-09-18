@@ -20,6 +20,8 @@
 
 ## 👋 About Me
 
+포트폴리오 : https://web-portfolio-nu-rosy.vercel.app/
+
 안녕하세요. **사용자 문제를 서비스로 구조화하고 구현하는 개발자 이주호입니다.**
 저는 Web / App / Data / AI 프로젝트를 중심으로 아이디어를 실제 동작하는 제품으로 만드는 경험을 쌓고 있습니다.
 
